@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a hobbyist developer. Doing things in free time.
+Currently on my first year of university.
+
 <!--
 **2-miles-long-stacktrace/2-miles-long-stacktrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
