@@ -2,6 +2,7 @@
 
 I am a hobbyist developer. Doing things in free time.
 Currently on my first year of university.
+I am a full time linux user and homelab administrator, dreaming to contribute to the kernel one day.
 
 <!--
 **2-miles-long-stacktrace/2-miles-long-stacktrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
